@@ -12,8 +12,6 @@ n = 4321 → -1
 
 Constraints:
 
-No built-in permutations allowed
-
 Code ≤ 10 lines
 
 Works for any number of digits
