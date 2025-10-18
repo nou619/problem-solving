@@ -1,0 +1,29 @@
+Problem: Emoji Maze Escape
+
+Task:
+
+You’re given a grid (2D list) full of emojis.
+
+🚪 → exit
+
+🟩 → path
+
+🟥 → wall
+
+🐱 → starting point
+
+You have to write a program that finds the shortest path from the cat to the exit and prints the steps as coordinates.
+
+Example grid:
+
+grid = [
+    ["🐱", "🟩", "🟥", "🟩"],
+    ["🟩", "🟩", "🟥", "🟩"],
+    ["🟥", "🟩", "🟩", "🟩"],
+    ["🟩", "🟩", "🟥", "🚪"]
+]
+
+
+Output:
+
+[(0,0), (0,1), (1,1), (2,1), (2,2), (2,3), (3,3)]
