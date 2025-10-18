@@ -1,0 +1,19 @@
+exercise: Next Higher Number with Same Digits
+
+Problem:
+Given a positive integer n, find the smallest number greater than n that uses exactly the same digits.
+Return -1 if no such number exists.
+
+Example:
+
+n = 2187 → 2718  
+n = 4321 → -1
+
+
+Constraints:
+
+No built-in permutations allowed
+
+Code ≤ 10 lines
+
+Works for any number of digits
